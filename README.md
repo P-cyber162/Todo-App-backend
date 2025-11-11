@@ -1,4 +1,4 @@
-Todo Backend API
+Todo App Backend API
 
 todo-backend/
 ├── config/
