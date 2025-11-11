@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Finish Node.js project",
+    "description": "Complete the backend by Friday",
+    "status": "in-progress",
+    "priority": "high",
+    "startTime": "2025-11-10T09:00:00.000Z",
+    "endTime": "2025-11-14T17:00:00.000Z"
+  },
+  {
+    "title": "Buy groceries",
+    "description": "Milk, Eggs, Bread",
+    "status": "pending",
+    "priority": "medium",
+    "startTime": "2025-11-09T14:00:00.000Z",
+    "endTime": "2025-11-09T16:00:00.000Z"
+  },
+  {
+    "title": "Read a book",
+    "description": "Read 50 pages of a novel",
+    "status": "completed",
+    "priority": "low",
+    "startTime": "2025-11-08T10:00:00.000Z",
+    "endTime": "2025-11-08T12:00:00.000Z"
+  }
+]
